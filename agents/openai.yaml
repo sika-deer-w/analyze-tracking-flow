@@ -1,0 +1,4 @@
+interface:
+  display_name: "埋点事件流分析"
+  short_description: "监听埋点接口并生成逐事件数据表、字段校验结果与会话事件流"
+  default_prompt: "Use $analyze-tracking-flow with a tracking-platform curl and an event specification file to capture events and reconstruct the ordered event flow."
